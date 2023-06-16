@@ -1,0 +1,51 @@
+---
+title: "Passkeys"
+showToc: true
+TocOpen: false
+draft: false
+hidemeta: false
+comments: false
+disableShare: true
+disableHLJS: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: false
+ShowBreadCrumbs: false
+ShowWordCount: false
+UseHugoToc: true
+---
+
+On May 3, 2023, [Google announced support for passkeys on its platform](https://blog.google/technology/safety-security/the-beginning-of-the-end-of-the-password/). Since then, I have seen a fair amount of confusion about what exactly passkeys are and how they work. In this article, I hope to demystify the concept and convey its benefits and limitations. We'll begin with a brief motivator. 
+
+### Password Are Bad
+
+Passwords are both inconvenient to use and usually easy to steal. 
+
+ - Humans are not good at remembering strong passwords, so if we're not using password managers, we usually create weak ones, and reuse them across accounts.  
+ - Passwords are stored on servers. Hopefully they are hashed and salted, but the user must trust the server as they cannot prove how their data is being handled server side.
+ - Even if passwords are transmitted and stored properly, they are still vulnerable to brute force attacks in the event of data breaches, which are becoming increasingly common.
+ - On their own, passwords do nothing to identify the user, as they are not tied to anything physical. 
+ - Due to how common it is to forget passwords, customer support can often be easily socially engineered into resetting them. 
+
+When passwords are used, both users and servers must take a number of cumbersome additional defensive measures in light of these issues. 
+
+In order to protect themselves, users should be using password managers to generate unique, random passwords for each account. They must take care that passwords are not reused, that their password database is stored securely, and backed up. Servers should support strong second factor authentication and users should use it. And servers should monitor authentication requests to detect and block high risk events, such as requests from unlikely locations. 
+
+Unfortunately, the vast majority of users are not going to use password managers properly, if at all. Many servers still do not support second factor authentication at all, and even fewer support adequate protocols like TOTP or FIDO. And even if all parties do everything right, one glaring security hole remains:
+
+- Passwords (as well as all second factor protocols except for FIDO) can be phished.  
+
+Although web traffic is encrypted to prevent sniffing or MITM attacks, if the attacker simply tricks the user into voluntarily handing over their credentials, then they will be compromised.
+
+### A Better Method
+
+Based on the above observations, we want an authentication protocol with the following properties:
+
+ 1. The user should not need to remember secrets.
+ 2. Secrets should not be stored on the authenticating server or sent over the network during the authentication process.
+ 3. Secrets should not be practical to obtain by attacking devices that store them.
+ 4. The protocol should provide evidence of the authenticity of the user. 
+ 5. It should be impossible to phish. 
+
+Each of these properties is achieved by passkeys via the FIDO2 protocol. 
+
