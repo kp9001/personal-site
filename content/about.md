@@ -15,7 +15,7 @@ ShowWordCount: false
 UseHugoToc: true
 ---
 
-I'm a cybersecurity professional with a passion for secure systems architecture. I have professional experience in SIEM and Linux systems administration, and a personal interest in cryptography.
+I'm an IT professional with a passion for secure systems architecture. I have professional experience in Splunk and Linux systems administration, and a personal interest in cryptography and network time.
 
 You can find some of my work and professional background here:
 
