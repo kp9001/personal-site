@@ -14,10 +14,10 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Kenneth Plante
+  title: Kendra Plante
   description: "Personal Site"
   keywords: [Portfolio]
-  author: Kenneth Plante
+  author: Kendra Plante
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: dark # dark, light
@@ -49,16 +49,16 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Kenneth Plante"
+    text: "Kendra Plante"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: Kenneth Plante
+    title: Kendra Plante
     subtitle: "SIEM Architect, Linux Systems Admin"
-    imageUrl: "/pictures/me.jpg"
+    #imageUrl: "/pictures/me.jpg"
     imageWidth: 200
     imageHeight: 200
 #    buttons:
@@ -73,8 +73,6 @@ params:
     Content: Welcome to my blog
 
   socialIcons:
-    - name: matrix
-      url: "https://matrix.to/#/@kplante:matrix.kplante.com"
     - name: linkedin
       url: "https://linkedin.com/in/kenneth-plante-1b4454249"
     - name: github
