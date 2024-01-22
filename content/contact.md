@@ -15,8 +15,8 @@ ShowWordCount: false
 UseHugoToc: true
 ---
 
-Please contact me via encrypted communications whenever possible. Everything listed below is considered a preference.
+Please contact me via encrypted communications whenever possible. 
 
- - Matrix: [@kplante:matrix.kplante.com](https://matrix.to/#/@kplante:matrix.kplante.com)
+ - Email: [kplante@kplante.com](mailto:kplante@kplante.com)
  - iMessage: [kplante@kplante.com](iMessage://kplante@kplante.com)
  - Signal: *awaiting usernames*
