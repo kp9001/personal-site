@@ -79,6 +79,8 @@ params:
       url: "https://github.com/kp9001"
     - name: email
       url: "mailto:kplante@kplante.com"
+    - name: signal
+      url: "https://signal.me/#eu/3CLJqxMadkykUEirOoRikn6qmX8VExGVyU_qEL9spdep1F62psFDApn1udF4Uv3M"
 
   cover:
     hidden: true # hide everywhere but not in structured data
