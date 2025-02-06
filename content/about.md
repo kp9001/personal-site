@@ -35,4 +35,4 @@ You can reach me directly via email or encrypted messages. Signal is my preferen
 - Signal: [kendra.936](https://signal.me/#eu/r6WQL9ceeKBqDtO38Bzcv1xD6ISGGu3Ro_0vrTIKE0D67p6xSxZNcI566gQ0Gbfn)
 - iMessage: [kendra.plante@jhuapl.edu](iMessage://kendra.plante@jhuapl.edu)
 - Work Email: [kendra.plante@jhuapl.edu](mailto:kendra.plante@jhuapl.edu)
-- Personal Email: [kplante@kplante.com](mailto:kplante@kplante.com)
+- Personal Email: [kendra@kplante.com](mailto:kendra@kplante.com)
