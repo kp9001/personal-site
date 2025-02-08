@@ -25,14 +25,16 @@ I was formerly a PhD student in Mathematics, with a focus in algebraic number th
 
 You can find me on the following platforms: 
 
+- Github: [kp9001](https://github.com/kp9001)
 - BlueSky: [@kplante.com](https://bsky.app/profile/kplante.com)
 - YouTube: [@kplante](https://www.youtube.com/@kplante)
 - LinkedIn: [Kendra Plante](https://www.linkedin.com/in/kendra-plante-1b4454249)
-- Github: [kp9001](https://github.com/kp9001)
 
-You can reach me directly via email or encrypted messages. Signal is my preference. 
+You can reach me directly via any of the following. Signal is my preference. 
 
 - Signal: [kendra.936](https://signal.me/#eu/r6WQL9ceeKBqDtO38Bzcv1xD6ISGGu3Ro_0vrTIKE0D67p6xSxZNcI566gQ0Gbfn)
 - iMessage: [kendra.plante@jhuapl.edu](iMessage://kendra.plante@jhuapl.edu)
 - Work Email: [kendra.plante@jhuapl.edu](mailto:kendra.plante@jhuapl.edu)
 - Personal Email: [kendra@kplante.com](mailto:kendra@kplante.com)
+
+You can verify my signatures or encrypt emails to me using my PGP public key [here](https://mail-api.proton.me/pks/lookup?op=get&search=user.kendra@kplante.com).

@@ -60,6 +60,10 @@ SIEM Engineer | Photographer | DarkSky Maryland
 """
 
   [[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/kp9001"
+
+  [[params.socialIcons]]
   name = "bluesky"
   url = "https://bsky.app/profile/kplante.com"
 
@@ -70,10 +74,6 @@ SIEM Engineer | Photographer | DarkSky Maryland
   [[params.socialIcons]]
   name = "linkedin"
   url = "https://www.linkedin.com/in/kendra-plante-1b4454249"
-
-  [[params.socialIcons]]
-  name = "github"
-  url = "https://github.com/kp9001"
 
   [[params.socialIcons]]
   name = "email"
@@ -120,6 +120,12 @@ identifier = "papers"
 name = "Papers"
 url = "/papers"
 weight = 40
+
+[[menu.main]]
+identifier = "PGP"
+name = "PGP"
+url = "https://mail-api.proton.me/pks/lookup?op=get&search=user.kendra@kplante.com"
+weight = 50
 
 [markup.highlight]
 noClasses = false
