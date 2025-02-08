@@ -1,2 +1,4 @@
 .hugo_build.lock
+*.tar.gz
+hugo
 public/
