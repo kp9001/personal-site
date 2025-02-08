@@ -5,6 +5,7 @@ enableRobotsTXT = true
 buildDrafts = false
 buildFuture = false
 buildExpired = false
+pluralizelisttitles = false
 
 [minify]
 disableXML = true
@@ -56,6 +57,14 @@ tocopen = false
 SIEM Engineer | Photographer | DarkSky Maryland
 """
 
+  [[params.profileMode.buttons]]
+  name = "Articles"
+  url = "/topics"
+
+  [[params.profileMode.buttons]]
+  name = "Photography"
+  url = "/tags"
+
   [[params.socialIcons]]
   name = "github"
   url = "https://github.com/kp9001"
@@ -101,15 +110,15 @@ url = "/about"
 weight = 10
 
 [[menu.main]]
-identifier = "photography"
-name = "Photography"
-url = "/tags/"
+identifier = "articles"
+name = "Articles"
+url = "/articles"
 weight = 20
 
 [[menu.main]]
-identifier = "projects"
-name = "Projects"
-url = "/projects"
+identifier = "photography"
+name = "Photography"
+url = "/photography"
 weight = 30
 
 [[menu.main]]
@@ -128,6 +137,10 @@ weight = 50
 noClasses = false
 lineNos = false
 guessSyntax = true
+
+[taxonomies]
+tag = 'tags'
+topic = 'topics'
 
 [privacy]
 
