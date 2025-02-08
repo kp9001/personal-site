@@ -22,7 +22,7 @@ author = "Kendra Plante"
 images = [ "<link or path of image for opengraph, twitter-cards>" ]
 DateFormat = "January 2, 2006"
 defaultTheme = "dark"
-disableThemeToggle = true
+disableThemeToggle = false
 ShowReadingTime = false
 ShowShareButtons = false
 ShowPostNavLinks = true
@@ -129,3 +129,39 @@ weight = 50
 
 [markup.highlight]
 noClasses = false
+lineNos = false
+guessSyntax = true
+
+[privacy]
+
+  [privacy.disqus]
+  disable = true
+  
+  [privacy.googleAnalytics]
+  anonymizeIP = true
+  disable = true
+  respectDoNotTrack = true
+  useSessionStorage = false
+  
+  [privacy.instagram]
+  disable = true
+  simple = false
+  
+  [privacy.twitter]
+  disable = true
+  enableDNT = true
+  simple = false
+
+  [privacy.x]
+  disable = true
+  enableDNT = true
+  simple = false
+  
+  [privacy.vimeo]
+  disable = true
+  enableDNT = true
+  simple = false
+  
+  [privacy.youtube]
+  disable = true
+  privacyEnhanced = true
