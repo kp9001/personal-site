@@ -1,7 +1,6 @@
 [submodule "themes/hugo-PaperMod"]
 	path = themes/hugo-PaperMod
 	url = https://github.com/adityatelange/hugo-PaperMod.git
-[submodule "themes/hugo-WonderMod"]
-	path = themes/hugo-WonderMod
-	url = https://github.com/Wonderfall/hugo-WonderMod.git
-	branch = social-icon-mods
+[submodule "hugo-WonderMod"]
+	path = hugo-WonderMod
+	url = https://github.com/kp9001/hugo-WonderMod.git
