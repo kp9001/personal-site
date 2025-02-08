@@ -39,6 +39,7 @@ tocopen = false
 
   [params.assets]
   disableFingerprinting = true
+  disableHLJS = true
   favicon = "<link / abs url>"
   favicon16x16 = "<link / abs url>"
   favicon32x32 = "<link / abs url>"
@@ -134,6 +135,7 @@ url = "https://mail-api.proton.me/pks/lookup?op=get&search=user.kendra@kplante.c
 weight = 50
 
 [markup.highlight]
+style = "dracula"
 noClasses = false
 lineNos = false
 guessSyntax = true
