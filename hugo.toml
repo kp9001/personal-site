@@ -1,6 +1,6 @@
 baseURL = "https://kplante.com"
 title = "Kendra Plante"
-theme = "hugo-WonderMod"
+theme = "hugo-PaperMod"
 enableRobotsTXT = true
 buildDrafts = false
 buildFuture = false
