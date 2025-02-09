@@ -59,8 +59,8 @@ SIEM Engineer | Photographer | DarkSky Maryland
 """
 
   [[params.profileMode.buttons]]
-  name = "Articles"
-  url = "/topics"
+  name = "About"
+  url = "/about"
 
   [[params.profileMode.buttons]]
   name = "Photography"
@@ -109,12 +109,6 @@ identifier = "about"
 name = "About"
 url = "/about"
 weight = 10
-
-[[menu.main]]
-identifier = "articles"
-name = "Articles"
-url = "/articles"
-weight = 20
 
 [[menu.main]]
 identifier = "photography"
