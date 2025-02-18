@@ -55,7 +55,7 @@ tocopen = false
   enabled = true
   title = "Kendra Plante"
   subtitle = """
-SIEM Engineer | Photographer | DarkSky Maryland
+SIEM Engineer | Photographer | DarkSky Advocate
 """
 
   [[params.profileMode.buttons]]
@@ -65,6 +65,10 @@ SIEM Engineer | Photographer | DarkSky Maryland
   [[params.profileMode.buttons]]
   name = "Photography"
   url = "/tags"
+
+  [[params.profileMode.buttons]]
+  name = "DarkSky Maryland"
+  url = "https://darkskymd.org"
 
   [[params.socialIcons]]
   name = "github"
