@@ -15,9 +15,9 @@ ShowWordCount: false
 UseHugoToc: true
 ---
 
-I'm an IT professional with a passion for secure systems architecture. I have professional experience in Splunk and Linux systems administration, and a personal interest in cryptography. I may post articles or projects to this site based on my interests at the time. 
+I'm an IT professional with a passion for secure systems architecture. I have extensive experience with Linux systems administration and Splunk engineering, across a broad range of production security environments. 
 
-I'm also an amateur photographer. I've recently been focusing on motorsports photography, and am also interested in wildlife and astrophotography. You can find some of my work [here](/photography).
+I'm also an amateur photographer. I've recently been focusing on motorsports photography, and am also interested in wildlife and astrophotography. You can find a portfolio of my work [here](/photography).
 
 I'm passionate about countering light pollution and work on this locally with [DarkSky Maryland](https://darkskymd.org/). Please reach out if you're interested in learning more or getting involved! 
 
@@ -34,7 +34,6 @@ You can reach me directly via any of the following. Signal is my preference.
 
 - Signal: [kendra.936](https://signal.me/#eu/r6WQL9ceeKBqDtO38Bzcv1xD6ISGGu3Ro_0vrTIKE0D67p6xSxZNcI566gQ0Gbfn)
 - iMessage: [kendra.plante@jhuapl.edu](iMessage://kendra.plante@jhuapl.edu)
-- Work Email: [kendra.plante@jhuapl.edu](mailto:kendra.plante@jhuapl.edu)
-- Personal Email: [kendra@kplante.com](mailto:kendra@kplante.com)
+- Email: [kendra@kplante.com](mailto:kendra@kplante.com)
 
 You can verify my signatures or encrypt emails to me using my PGP public key [here](https://mail-api.proton.me/pks/lookup?op=get&search=user.kendra@kplante.com).
