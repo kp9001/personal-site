@@ -1,7 +1,7 @@
 ---
 date: 2024-12-22
 title: "Jannett Christmas 2024"
-tags: ['Personal', 'Portraits']
+tags: ['Portraits']
 showToc: false
 TocOpen: false
 draft: false

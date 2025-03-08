@@ -1,7 +1,7 @@
 ---
 date: 2025-01-06
 title: "Jannett DC Snow 2025"
-tags: ['Personal', 'Portraits']
+tags: ['Portraits']
 showToc: false
 TocOpen: false
 draft: false
