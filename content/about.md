@@ -32,8 +32,7 @@ You can find me on the following platforms:
 
 You can reach me directly via any of the following. Signal is my preference. 
 
-- Signal (Personal): [kendra.936](https://signal.me/#eu/r6WQL9ceeKBqDtO38Bzcv1xD6ISGGu3Ro_0vrTIKE0D67p6xSxZNcI566gQ0Gbfn)
-- Signal (Work): [plantke1.936](https://signal.me/#eu/8PWGXprmZ1V0z2uZnoGN2U5B_8OkiRAQKDurjmFDzZjwXEgNBghLxKukNKVe8gXJ)
+- Signal: [kendra.936](https://signal.me/#eu/r6WQL9ceeKBqDtO38Bzcv1xD6ISGGu3Ro_0vrTIKE0D67p6xSxZNcI566gQ0Gbfn)
 - iMessage: [kendra@kplante.com](iMessage://kendra@kplante.com)
 - Email: [kendra@kplante.com](mailto:kendra@kplante.com)
 
