@@ -26,6 +26,7 @@ I was formerly a PhD student in Mathematics, with a focus in algebraic number th
 You can find me on the following platforms: 
 
 - Github: [kp9001](https://github.com/kp9001)
+- Flickr: [kendra936](https://www.flickr.com/photos/kendra936)
 - BlueSky: [@kplante.com](https://bsky.app/profile/kplante.com)
 - YouTube: [@kplante](https://www.youtube.com/@kplante)
 - LinkedIn: [Kendra Plante](https://www.linkedin.com/in/kendra-plante-1b4454249)
