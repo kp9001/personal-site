@@ -1,6 +1,6 @@
 ---
 date: 2025-02-25
-title: "Jannett Sabino Canyon 2025"
+title: "Jannett Sabino Canyon"
 tags: ['Portraits']
 showToc: false
 TocOpen: false
