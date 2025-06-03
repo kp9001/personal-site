@@ -83,6 +83,10 @@ SIEM Engineer | Photographer | DarkSky Advocate
   url = "https://www.flickr.com/photos/kendra936"
 
   [[params.socialIcons]]
+  name = "instagram"
+  url = "https://www.instagram.com/kendra936.photography"
+
+  [[params.socialIcons]]
   name = "youtube"
   url = "https://www.youtube.com/@kplante"
 
