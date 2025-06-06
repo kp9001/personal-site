@@ -19,5 +19,5 @@ UseHugoToc: true
 
 [![image](https://imagedelivery.net/CPeYnfG3H67PTArKG8mvEA/d5d6acc9-015c-442a-0f09-a08fa553dd00/public)](https://imagedelivery.net/CPeYnfG3H67PTArKG8mvEA/d5d6acc9-015c-442a-0f09-a08fa553dd00/public)
 [![image](https://imagedelivery.net/CPeYnfG3H67PTArKG8mvEA/bf69253b-d443-42c8-63f4-8a1681b66b00/public)](https://imagedelivery.net/CPeYnfG3H67PTArKG8mvEA/bf69253b-d443-42c8-63f4-8a1681b66b00/public)
-[![image](https://imagedelivery.net/CPeYnfG3H67PTArKG8mvEA/c8c6819d-5296-4fe3-d762-3e22cd25c100/public)](https://imagedelivery.net/CPeYnfG3H67PTArKG8mvEA/c8c6819d-5296-4fe3-d762-3e22cd25c100/public)
+[![image](https://imagedelivery.net/CPeYnfG3H67PTArKG8mvEA/2f0972b5-5fb9-4b9e-73cc-133ab0a35400/public)](https://imagedelivery.net/CPeYnfG3H67PTArKG8mvEA/2f0972b5-5fb9-4b9e-73cc-133ab0a35400/public)
 [![image](https://imagedelivery.net/CPeYnfG3H67PTArKG8mvEA/5de1451e-aeef-4258-fd85-4e835ca79500/public)](https://imagedelivery.net/CPeYnfG3H67PTArKG8mvEA/5de1451e-aeef-4258-fd85-4e835ca79500/public)
