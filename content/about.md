@@ -28,7 +28,7 @@ You can find me on the following platforms:
 - Github: [kp9001](https://github.com/kp9001)
 - BlueSky: [@kplante.com](https://bsky.app/profile/kplante.com)
 - Flickr: [kendra936](https://www.flickr.com/photos/kendra936)
-- Instagram: [@kendra936.photography](https://www.instagram.com/kendra936.photography/)
+- Instagram: [@plante.kendra936](https://www.instagram.com/plante.kendra936/)
 - YouTube: [@kplante](https://www.youtube.com/@kplante)
 - LinkedIn: [Kendra Plante](https://www.linkedin.com/in/kendra-plante-1b4454249)
 
