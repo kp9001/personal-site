@@ -123,12 +123,6 @@ url = "/about"
 weight = 10
 
 [[menu.main]]
-identifier = "photography"
-name = "Photography"
-url = "/photography"
-weight = 30
-
-[[menu.main]]
 identifier = "papers"
 name = "Papers"
 url = "/papers"
