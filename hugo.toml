@@ -64,7 +64,7 @@ SIEM Engineer | Photographer | DarkSky Advocate
 
   [[params.profileMode.buttons]]
   name = "Photography"
-  url = "/tags"
+  url = "https://kendraplantephotography.com"
 
   [[params.profileMode.buttons]]
   name = "DarkSky Maryland"

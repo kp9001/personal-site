@@ -17,7 +17,7 @@ UseHugoToc: true
 
 I'm an IT professional with a passion for secure systems architecture. I have extensive experience with Linux systems administration and Splunk engineering, across a broad range of production security environments. 
 
-I'm also an amateur photographer. I've recently been focusing on motorsports photography, and am also interested in wildlife and astrophotography. You can find a portfolio of my work [here](/photography).
+I'm also an amateur photographer. I've recently been focusing on motorsports photography, and am also interested in wildlife and astrophotography. You can find a portfolio of my work [here](https://kendraplantephotography.com).
 
 I'm passionate about countering light pollution and work on this locally with [DarkSky Maryland](https://darkskymd.org/). Please reach out if you're interested in learning more or getting involved! 
 
