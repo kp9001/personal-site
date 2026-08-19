@@ -17,7 +17,7 @@ UseHugoToc: true
 
 I'm an IT professional with a passion for secure systems architecture. I have extensive experience with Linux systems administration and Splunk engineering, across a broad range of production security environments. 
 
-I'm also an photographer specializing in portraits and motorsports photography. You can find my photography website [here](https://kendraplantephotography.com), and a full portfolio of my work on [flickr](https://flickr.com/photos/kendra936).
+I'm also an photographer specializing in portraits and motorsports photography. You can find my photography website [here](https://kendraplantephotography.com), and a full portfolio of my work [here](https://portfolio.kendraplantephotography.com/).
 
 I'm passionate about countering light pollution and work on this locally with [DarkSky Maryland](https://darkskymd.org/). Please reach out if you're interested in learning more or getting involved! 
 
